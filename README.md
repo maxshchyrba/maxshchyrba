@@ -6,6 +6,8 @@
   💬 Ask me about web dev, JavaScript, or building scalable projects.
 </p>
 
+<a href="https://freelancehunt.com/freelancer/shchyrbamax.html?from=shield&r=wA7Zo" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1899485/type/rating?style=for-the-badge&lang=uk&showLogin=1" alt="Freelancehunt — простий та чесний фриланс"></a>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/maksym-shchyrba-31683331a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
