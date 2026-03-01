@@ -64,4 +64,4 @@
 
 <br />
 
-<a href="https://freelancehunt.com/freelancer/shchyrbamax.html?from=shield&r=wA7Zo" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1899485/type/rating?style=for-the-badge&lang=uk&showLogin=1" alt="Freelancehunt — простий та чесний фриланс"></a>
+<a href="https://freelancehunt.com/freelancer/shchyrbamax.html?from=shield&r=wA7Zo" target="_blank"></a>
